@@ -1,3 +1,4 @@
 This was just an empty file
 but now I'm adding stuff
 and get my green square
+figuring out how to document what I'm learning... I'll figure out how to bring it over here to github soon.
